@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for the passing of the bill for the more effectual suppressing vice &amp; immorality humbly offer'd to both Houses of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92238</idno>
+            <idno type="STC">Wing R517</idno>
+            <idno type="STC">ESTC R229919</idno>
+            <idno type="EEBO-CITATION">99895730</idno>
+            <idno type="PROQUEST">99895730</idno>
+            <idno type="VID">153278</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92238)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153278)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2357:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for the passing of the bill for the more effectual suppressing vice &amp; immorality humbly offer'd to both Houses of Parliament.</title>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition, with additions.</edition>
+               </editionStmt>
+               <extent>17, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by W. Downing, for William Hawes, at the Rose in Ludgate-Street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Last leaf is blank.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Immoral conditions (Law) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153278:1"/>
+            <p>REASONS FOR THE Paſſing of the BILL FOR THE More Effectual Suppreſſing <hi>Vice</hi> &amp; <hi>Immorality,</hi> Humbly Offer'd to Both Houſes of Parliament.</p>
+            <p>
+               <hi>The Second Edition, with Additions.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. Downing,</hi> for <hi>William Hawes,</hi> at the <hi>Roſe</hi> in <hi>Ludgate-Street,</hi> 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153278:2"/>
+            <pb n="3" facs="tcp:153278:2"/>
+            <head>REASONS FOR THE Paſſing of the BILL FOR THE More Effectual Suppreſſing Vice and Immorality, <hi>&amp;c.</hi>
+            </head>
+            <p>ONE would think it ſhould be a needleſs Undertaking in a Chriſtian State, to give Reaſons for the Paſſing of a Bill which it is ſcarcely poſſible for any Man that would be accounted a Chriſtian to offer the leaſt Reaſon againſt. But the common Degeneracy in this Age and Nation being ſuch as is hardly to be parallell'd in any Hiſtory, whatever ſome may think, makes it too neceſſary. Therefore I hum<g ref="char:EOLhyphen"/>bly crave leave to lay before the Members of both Houſes ſuch Conſiderations as, with Submiſſion, I conceive, will incline them to believe it not a thing indifferent, whether this <hi>Bill</hi> ſhall paſs, or no.</p>
+            <p>
+               <pb n="4" facs="tcp:153278:3"/>
+And firſt, if we conſider the Character which the Sins of <hi>Uncleanneſs</hi> do bear in Holy Writ, it is plain that thoſe who will own this to be a Re<g ref="char:EOLhyphen"/>velation from God, muſt think them to be of the moſt criminal Nature, and ſuch as will ſub<g ref="char:EOLhyphen"/>ject thoſe, who live in the Practice of ſuch Sins, to eternal Damnation; from which nothing can ſave them but Repentance and Amendment of Life. I will ſelect but one or two of thoſe Texts out of the many that might be produc'd to this purpoſe. The Apoſtle tells us, <hi>Heb.</hi> 13.4. That <hi>Whoremongers and Adulterers God will judge.</hi> And leſt any ſhould be deluded into falſe Hopes or ſlight Thoughts of this Matter, by the Sophi<g ref="char:EOLhyphen"/>ſtry of prophane Wits, he warns us all, <hi>Eph.</hi> 5.6. 1 <hi>Cor.</hi> 6.9. <hi>Let no Man deceive you with vain Words;</hi> aſſuring it for a certain Truth, that <hi>neither Fornicators, nor Adulterers, nor Effeminate Perſons, nor Abuſers of themſelves with Mankind, ſhall Inherit the Kingdom of God.</hi> And therefore does ſeriouſly exhort thoſe he writes to, to <hi>Mortifie their Mem<g ref="char:EOLhyphen"/>bers which are upon the Earth; Fornication, Unclean<g ref="char:EOLhyphen"/>neſs, evil Concupiſcence; for which Sins,</hi> he tells us, <hi>Col.</hi> 3.5. <hi>the Wrath of God cometh upon the Chil<g ref="char:EOLhyphen"/>dren of Diſobedience.</hi>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:153278:3"/>
+And indeed one may eaſily conclude there is a greater Contrariety to the Will of God in thoſe Sins, than moſt others, from this, that the very Approaches to <hi>Uncleanneſs</hi> are more nicely guard<g ref="char:EOLhyphen"/>ed than to any other kind of Vices. It is only by the Eye, the Hand, or the Ear, that this Devil can enter into the Soul; and if either of theſe Sentinels, the very <hi>Right-Eye,</hi> or <hi>Right-Hand,</hi> ſhould offer to betray us, our great Law-giver ſtrictly commands the one to be <hi>pluckt out,</hi> and the other to be <hi>cut off;</hi> and backs it with this Reaſon, that it is a piece of Violence moſt highly profitable that theſe Members ſhould rather periſh, than that the whole Body ſhould be caſt into Hell, <hi>Matt.</hi> 5.29, 30. And then as for the <hi>Evil Communica<g ref="char:EOLhyphen"/>tion</hi> from the Tongue, which above all, <hi>does cor<g ref="char:EOLhyphen"/>rupt good Manners,</hi> the Apoſtle ſtrictly commands; That <hi>Fornication, and all Uncleanneſs ſhould not be ſo much as once Named amongſt us as becometh Saints,</hi> Epheſ. 5.3. And adds, verſ. 4. <hi>Neither Filthineſs, nor fooliſh Talking, nor Jeſting, which are not convenient:</hi> An Admonition which I cannot but wiſh all Chriſtians would ſeriouſly conſider, and then <hi>Ob<g ref="char:EOLhyphen"/>ſcenity</hi> would not paſs, as it does with too many, for a <hi>Jeſt,</hi> and <hi>filthy Talk</hi> would be <hi>Baniſht</hi> out of all <hi>Converſation.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:153278:4"/>
+And why a heavier Damnation, and a ſtricter Caution ſhould be given againſt theſe Sins than any other, will not ſeem ſtrange to any one that reflects upon the fatal Conſequences of theſe Crimes, as well with reſpect to our condition in this World, as in the World which is to come.</p>
+            <p>
+               <hi>As to the World to come,</hi> the Texts already cited do ſufficiently ſhew that Excluſion from the Pre<g ref="char:EOLhyphen"/>ſence of God, and the Kingdom of Heaven, to<g ref="char:EOLhyphen"/>gether with a fearful Doom to the dreadful Miſeries of another Place, will be the certain Sentence of ſuch Sinners; and the Reaſon is plain to any one that has right apprehenſions of the Holineſs of God, and of the Purity of Heaven.</p>
+            <p>A Soul debaſed with inordinate Luſt, is there<g ref="char:EOLhyphen"/>by ſo unqualified for Communion with God, that the <hi>Heathens</hi> could not but ſee it; who there<g ref="char:EOLhyphen"/>fore requir'd, that all who would be admitted to their Myſteries ſhould firſt be Purg'd with ſuch Rites as they Inſtituted for that purpoſe. They were ſenſible it was not for the Honour of their Gods, that Men who were not throughly diſtin<g ref="char:EOLhyphen"/>guiſh'd from Beaſts, ſhould come to keep them company. How much more ſtrictly then will it be requir'd by the Author of our Salvation, who has deſign'd us for the Bleſſed Eſtate in which we
+<pb n="7" facs="tcp:153278:4"/>are to be like him, and with him, that whoſoever has any hope of this ſhould <hi>purifie himſelf as he is pure?</hi>
+            </p>
+            <p>And indeed, as there is an utter Antipathy between a Senſual and a Divine Mind, and there<g ref="char:EOLhyphen"/>fore, <hi>as Bleſſed are the pure in Heart, for they ſhall ſee God;</hi> ſo, on the contrary, conſider Heaven, and you will find from the Nature of the thing, as well as from the Teſtimony of Scripture, that into that place <hi>no Unclean thing can enter.</hi> Light and Darkneſs, Heaven and Hell, are not at a wider diſtance than Purity and Uncleanneſs; ſo that there is a natural Impoſſibility that a Soul ſhould be Saved ſo utterly indiſpoſed and un<g ref="char:EOLhyphen"/>qualified for it.</p>
+            <p>Nor are the Conſequences of the Sins of Un<g ref="char:EOLhyphen"/>cleanneſs leſs fatal to Mankind, <hi>with reſpect to this Life;</hi> and this under what Capacity ſoever we conſider them, whether in their private Capa<g ref="char:EOLhyphen"/>city, or with reſpect to their Families, or to the Publick Society.</p>
+            <p>And <hi>1ſt,</hi> as to their private Concerns. Let the Experience of all Men in all Ages ſpeak out, and they would ſee, not only in Seri<g ref="char:EOLhyphen"/>pture, how the wiſeſt and ſtrongeſt of Men have been overcome, and ruin'd with extravagant
+<pb n="8" facs="tcp:153278:5"/>Luſt; but they wou'd find much of the ſame in other Books. Or if they are not given to read<g ref="char:EOLhyphen"/>ing, if they wou'd but look about them in the World, eſpecially in ſuch an Age as this is, they cannot but ſee a multitude of ſad Examples of thoſe that have been ruin'd in like manner. Alas! how often do we our ſelves ſee that Ob<g ref="char:EOLhyphen"/>ſervation of the Wiſe-Man verify'd to a tittle, <hi>Prov.</hi> 6.26. that <hi>by means of a whoriſh Woman a Man is brought to a piece of Bread;</hi> And that <hi>the Adultereſs hunts for the precious Life.</hi> The whole <hi>ſeventh Chapter</hi> alſo contains moſt admirable Ob<g ref="char:EOLhyphen"/>ſervations to this purpoſe; amongſt which the 22, 23, 26, and 27. Verſes, are exceeding emphatical: There it is ſaid of a <hi>ſtrange Wo<g ref="char:EOLhyphen"/>man</hi> (ſo the Scripture calls the Woman that is not a Man's own Wife; but there it is eſpecially ſpoken of a Street-walker) ſuch a one <hi>meeting with a Young-man void of Underſtanding, he goes after her ſtraitway, as an Oxe goeth to the Slaughter, or as a Fool to the Correction of the Stocks, till a Dart ſtrike through his Liver, as a Bird haſteth to the Snare, and knoweth not that it is for its Life. She hath caſt down many wounded, yea, many ſtrong Men have been ſlain by her. Her Houſe is the way to Hell, going down to the Chambers of Death.</hi>
+            </p>
+            <p n="2">
+               <pb n="9" facs="tcp:153278:5"/>
+2. Next, conſider how Families are affected with the ill Conſequents of this Vice, and we ſhall find that nothing does ſo fatally deſtroy the <hi>Peace,</hi> the <hi>Intereſt,</hi> and the <hi>Succeſſion</hi> thereof, as the Sins of Uncleanneſs. And as to the <hi>Peace</hi> and Comfort of Families, I dare appeal to the very Whoremongers and Adulterers, whether they themſelves would reſent any thing as a higher Injury, and be more diſturb'd upon any account, than to have their own Wives or Daugh<g ref="char:EOLhyphen"/>ters debauch'd. And indeed, it is obſervable, That thoſe very Perſons who are moſt Infamous Outragious, when-ever thoſe Misfortunes happen themſelves for Corrupting of other Mens Wives and Daughters, are always the moſt Impatient and Outragious, when-ever thoſe Misfortunes happen to the Diſhonour of them, and their own Families.</p>
+            <p>The <hi>Intereſt</hi> alſo of the ſame is moſt highly concern'd both in the Chaſtity of the Wife, and of the Husband: Of the Wife, eſpecially in great Families, ſince if her Chaſtity be not preſerv'd, the Husband's Eſtate is in danger to be ſwept away from his own natural Off-ſpring. And then, as to the Husband, I believe it will be as ſoon granted as propos'd, that a Gentleman can with the third part of that Charge maintain a Virtuous Wife, and her Family, as a Whore, and her ſpu<g ref="char:EOLhyphen"/>rious
+<pb n="10" facs="tcp:153278:6"/>Iſſue. The reaſon is, the Deſires of the one are reaſonable and regular, and conſequently ſatisfy'd with moderate Expences; the Appetites of the other are Looſe, Extravagant, and Bound<g ref="char:EOLhyphen"/>leſs, and never to be ſufficiently Gratify'd. Be<g ref="char:EOLhyphen"/>ſides, the <hi>Wife</hi> reckons ſhe ſpends of her own, and if ſhe exceeds, her own Children are like to ſuffer for it. But for the <hi>ſtrange Woman,</hi> ſhe is uſually like a Soldier that lives at diſcretion in the Enemies Country, She Hates, and believes ſhe is hated, for ſhe knows there is reaſon for it. Beſides, ſhe cannot forget ſhe has a ſeparate Intereſt from the Family of her Paramour, and therefore her buſineſs is to ſell her ſelf as dear as ſhe can; and if he gives her all that he has, it is leſs valuable than what ſhe has given him. Moreover, poſſibly ſhe has Children by him; if not, yet at leaſt ſhe muſt provide for Old Age. All this while I am ſpeaking but of one ſingle Concubine, which no Lawleſs Man can content himſelf with, no more than he can with one Wife. And if he has many drawing upon him toge<g ref="char:EOLhyphen"/>ther, they will have ſooner done their Work, which is to Beggar him and his Family. Such infinite reaſon, with reſpect to the <hi>Intereſt</hi> of Fa<g ref="char:EOLhyphen"/>milies, had the Wife-Man for that Caution of his,
+<pb n="11" facs="tcp:153278:6"/>
+               <hi>Prov.</hi> 5.10. <hi>Remove thy way far from the ſtrange Woman, and come not nigh the Door of her Houſe, leaſt Strangers be fill'd with thy Wealth, and thy La<g ref="char:EOLhyphen"/>bours be in the Houſe of a Stranger.</hi>
+            </p>
+            <p>But then if we conſider, how the <hi>Succeſſions</hi> of Families are often extinguiſh'd by means of a Whoriſh Woman; and in what a terrible man<g ref="char:EOLhyphen"/>ner alſo this commonly happens, the laſt and only Hopes of many Families being cut off in a ſenſeleſs impious Duel, fought upon the account of ſome Lewd Strumpet (the moſt uſual Occa<g ref="char:EOLhyphen"/>ſion thereof) this indeed is a Conſideration that does not only bring down the <hi>Gray Hairs</hi> of the unhappy Parents <hi>with Sorrow to the Grave,</hi> but does alſo ſtrike all that hear it with Horror; as well upon that ſcore, as with reſpect to the fear<g ref="char:EOLhyphen"/>ful Sentence at God's Tribunal, which the mi<g ref="char:EOLhyphen"/>ſerable Debauchee is gone to receive.</p>
+            <p>Nor is it to be paſs'd by as unworthy a ſerious Reflection, that though the utter Extinction of Noble Families does not every day happen on this occaſion; yet every day we may ſee what Craſie and Sickly Conſtitutions are to many Succeſſions derived down from the invenom'd Seed of one or other of the vitious Parents to their Innocent Children; ſo that it were happy for them, if the
+<pb n="12" facs="tcp:153278:7"/>Succeſſion had ſooner fail'd, and they had never ſeen the Sun. Oh therefore that Men wou'd weigh this, that tho' <hi>the Lips of a ſtrange Woman drop as the Honey-Comb, and her Mouth is ſmoother than Oil; yet her End is bitter as Wormwood, ſharp as a two-edg'd Sword. Her Feet go down to Death, her Steps take hold on Hell,</hi> Prov. 5.3, 4, 5.</p>
+            <p>And now laſtly, as to thoſe Miſchiefs to the <hi>Publick,</hi> occaſion'd frequently by the Sins of Un<g ref="char:EOLhyphen"/>cleanneſs, without recurring to Hiſtory, either Sacred or Prophane, (both which give us the Accounts of moſt bloody Wars, and utter Deſo<g ref="char:EOLhyphen"/>lation brought upon whole Countries on the ſcore of a Strumpet, or an Adultereſs, and of the Divine Vengeance upon whole Nations for Crimes of this Nature, when become univer<g ref="char:EOLhyphen"/>ſally prevalent,) I ſhall content my ſelf with laying before You thoſe ſad and fearful Effects of <hi>Lewdneſs,</hi> which may fall under our own Ob<g ref="char:EOLhyphen"/>ſervation at this Day, to the very Country we now live in.</p>
+            <p>And it is not an inconſiderable Evil to the <hi>Publick,</hi> that ſo many Hundred Perſons are Yearly Executed, ſome for <hi>Murthers,</hi> others for <hi>Robberies,</hi> others for <hi>Theft</hi> and <hi>Burglary;</hi> the greateſt part of whom, upon Enquiry, will be found to have
+<pb n="13" facs="tcp:153278:7"/>been entangled in the Snares of <hi>Lewd Women,</hi> or they had never brought their Heads into an Hal<g ref="char:EOLhyphen"/>tar. And it was but the laſt Seſſions that I was my ſelf amaz'd to ſee ſo many Young-Men, in the very Bloom of their Years, receive the Sen<g ref="char:EOLhyphen"/>tence of Death for the Crimes now mentioned. And ſpeaking of it, with Concern, to one of the Judges, he told me it has been his Obſerva<g ref="char:EOLhyphen"/>tion, ſince he came upon the Bench, That <hi>Whore<g ref="char:EOLhyphen"/>dom</hi> has generally been the firſt Occaſion of that which brought them to their unhappy End. For theſe Perſons being ſtrongly addicted to their Luſts, and yet of none, or of broken For<g ref="char:EOLhyphen"/>tunes, thoſe lewd Women whom they Aſſociate themſelves withal, force them upon thoſe violent means to feed their Luſts, which terminate thus in their utter Ruin.</p>
+            <p>But the grand Miſchief and Bane of all to the Publick, as well as the high Diſhonour to God, which ariſes from an Addictedneſs to the Sins of <hi>Uncleanneſs,</hi> is <hi>Atheiſm</hi> and <hi>Infidelity.</hi>
+            </p>
+            <p>Now the Atheiſt is that <hi>Leviathan</hi> that taketh his Paſtime upon the Earth. He knows no Law but his own Will, and therefore indulgeth himſelf in any Wickedneſs that he can ſafely commit; <hi>Adulteries, Murther, Oppreſſion,</hi> and what<g ref="char:EOLhyphen"/>ever
+<pb n="14" facs="tcp:153278:8"/>elſe can be thought of that is monſtrouſly flagitious, and highly miſchievous, he perpe<g ref="char:EOLhyphen"/>trates to chooſe. <hi>He deviſeth Miſchief upon his Bed, he ſetteth himſelf in no good way, neither doth he abhor any thing that is Evil. He ſlayeth the Widow, and the Stranger, and murthers the Father<g ref="char:EOLhyphen"/>leſs; yet he ſays, the Lord ſhall not ſee, neither ſhall the God of Jacob regard it,</hi> Pſal. 94.6, 7.</p>
+            <p>Thus is the <hi>Atheiſt</hi> like ſome wild and ſavage Beaſt, which ravages and deſpoils the whole Voiſenage round about him. But after he has perpetrated ſome horrible Villany, if you will take the pains to trace the mighty and miſchie<g ref="char:EOLhyphen"/>vous Monſter back to his Kennel, you will al<g ref="char:EOLhyphen"/>ways lodge him in the Bed of Luſt. It is there he firſt ſuckt in, and was nouriſh'd up in ſavage Principles: It is thence he iſſues out, the Miſ<g ref="char:EOLhyphen"/>chief and Terror of all within his Compaſs.</p>
+            <p>And if you deſire to know why a ſtrong and habitual Addictedneſs to unlawful Pleaſures ſhould ſo fatally, and almoſt inevitably fix Men in Atheiſtical Principles; the Reaſon is, <hi>1ſt,</hi> that Senſuality and Filthineſs do, of all other Sins, ſend up ſuch groſs and foul Exhalations as muſt neceſſa<g ref="char:EOLhyphen"/>rily intercept our View of Heaven: And indeed theſe do ſo flag the Wings of a thinking, ſoaring
+<pb n="15" facs="tcp:153278:8"/>Mind, that the Powers and Faculties of the Soul can never riſe higher than Senſe and Matter. They do alſo ſo defile and muddy the Mind, that it can take in no Spiritual and Divine Idea's, which can be throughly impreſſed only upon pure and unſullied Intellect. <hi>2dly,</hi> And Senſual Plea<g ref="char:EOLhyphen"/>ſure being of all other ſinful Courſes the leaſt patient of any Check or Controul, no ſooner are Perſons given up to the Gratification of their Luſts, but you ſhall find they immediately caſt about for the beſt Arguments they can de<g ref="char:EOLhyphen"/>viſe againſt thoſe great and mighty Reſtraints to the ſame, which, even in their fulleſt Draughts of Pleaſure, ſo often pall their Appetites, and chill their Blood; <hi>namely,</hi> the Being and Providence of God, the Immortality of the Soul, and a future Judgment, and indeed againſt the whole Chriſtian Doctrine: And as they are reſolved to <hi>Live,</hi> ſo they would fain perſwade themſelves they ſhall <hi>Die, life the Beaſts that periſh.</hi> And how apt Men are to believe, even againſt the cleareſt Evidence, what is ſtrongly their Deſire, and what they think is highly their Intereſt and Concern, ſhould be true, we daily ſee; and thoſe Perſons eſpecially we are ſpeaking of, do fatally find, till a lingring Diſeaſe, Afflictions
+<pb n="16" facs="tcp:153278:9"/>or Calamities recall them back, and fix them down to ſerious Thoughts; and then, alas! moſt of them open their Eyes, and ſee their Er<g ref="char:EOLhyphen"/>rors when it is too late. Thus does <hi>Atheiſm</hi> and <hi>Irreligion,</hi> that Bane of Humane Societies, owe its Birth and its Growth to Senſual Pleaſures.</p>
+            <p>And if ſo, if an Evil ſo highly miſchievous to Publick Societies, as well as the Souls of Men, does derive its Being, and all its Force, from the Sins of <hi>Uncleanneſs;</hi> it ought then to be the eſpe<g ref="char:EOLhyphen"/>cial Care of all Civil Societies to deſtroy the <hi>Dam</hi> that nouriſhes and breeds up ſo foul a Monſter. <hi>Principiis obſta</hi> will be a ruling Maxim to all well-govern'd States; and therefore to ſtrangle ſo fruitful a Parent of Miſchief, as Senſual Luſts ap<g ref="char:EOLhyphen"/>pear to be, does infinitely become the <hi>WISDOM OF OUR NATION.</hi>
+            </p>
+            <p>In ſhort, we are, or at leaſt-wiſe profeſs our ſelves to be Chriſtians; and as the very original Deſign and Tendency of Chriſtianity was to<g ref="char:EOLhyphen"/>wards nothing more than to extinguiſh the <hi>Luſts of Concupiſcence which did reign in the Gentiles, who knew not God,</hi> 1 Theſſ. 4.5. So we may as well renounce our Chriſtianity it ſelf, as give a Na<g ref="char:EOLhyphen"/>tional Favour, and publick Allowance to theſe Enormities; as the not paſſing of this <hi>Bill</hi> will,
+<pb n="17" facs="tcp:153278:9"/>I fear, by many, both at Home and Abroad, be interpreted no leſs.</p>
+            <p>One thing is moſt certain, That no Man can be againſt it upon the Account of <hi>Religion;</hi> for the Suppreſſion of the Vices of <hi>Uncleanneſs</hi> is a part of Chriſtianity, which Chriſtians of all De<g ref="char:EOLhyphen"/>nominations, if true to their Principles, can freely come up to. It is not here as in diſputed Mat<g ref="char:EOLhyphen"/>ters of Religion, with reſpect to which all are not agreed how far it may be fit for the ſecular Powers to interpoſe. But as all Parties of Chriſtians will conſent to have Immorality re<g ref="char:EOLhyphen"/>ſtrained; So the Immorality that is to be re<g ref="char:EOLhyphen"/>ſtrain'd by this <hi>Bill,</hi> by the Verdict of expreſs Scripture, comes under the Cognizance of the Ci<g ref="char:EOLhyphen"/>vil <hi>Magiſtrate; It is an heinous Crime, yea, it is an Iniquity to be puniſhed by the Judges,</hi> Job. 31.11. <hi>And that the Iudges may have Law to Puniſh it by, is the Thing we Humbly deſire of our Legiſlators.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
